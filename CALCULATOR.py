@@ -2,7 +2,7 @@ def calculator():
     print("Welcome to the Python Calculator!")
     print("Select operation:")
     print("1. Addition (+)")
-    print("2. Subtraction (-)")
+    print("2. Soustraction (-)")
     print("3. Multiplication (*)")
     print("4. Division (/)")
 
